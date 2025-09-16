@@ -23,4 +23,4 @@ This project demonstrates my front-end development skills by turning a static de
 ## 📂 Project Setup  
 1. Clone the repo  
    ```bash
-   git clone https://github.com/yourusername/bakery-website.git
+   git clone https://github.com/Farhan-Waseem/bakery-website.git
